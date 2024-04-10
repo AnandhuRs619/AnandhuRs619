@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **TypeScript , Docker and Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://anandhurs.netlify.app/](https://anandhurs.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio ](https://anandhurs.netlify.app/)
 
 - 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, JavaScript**
 
 - 📫 How to reach me **ananthurs619@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MFdZ089b9WWi63AMel2ouTNdTfnyi517/view?usp=sharing](https://drive.google.com/file/d/1MFdZ089b9WWi63AMel2ouTNdTfnyi517/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MFdZ089b9WWi63AMel2ouTNdTfnyi517/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
