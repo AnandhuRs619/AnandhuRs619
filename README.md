@@ -6,10 +6,10 @@
 - 🔭 I’m currently working on **Social Media App**
 
 - 🌱 I’m currently learning **TypeScript , Docker and Kubernetes**
-
-- 👨‍💻 All of my projects are available at [My Portfolio ](https://anandhurs.netlify.app/)
-
+  
 - 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, JavaScript**
+  
+- 👨‍💻 All of my projects are available at [My Portfolio ](https://anandhurs.netlify.app/)
 
 - 📫 How to reach me **ananthurs619@gmail.com**
 
