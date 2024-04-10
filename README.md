@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anandhu R S</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandhurs619&label=Profile%20views&color=0e75b6&style=flat" alt="anandhurs619" /> </p>
+
 
 - 🔭 I’m currently working on **Social Media App**
 
