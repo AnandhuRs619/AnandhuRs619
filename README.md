@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anandhu R S</h1>
-<h3 align="center">A passionate MERN Stack Developer</h3>
+<h3 align="center">A passionate MERN Stack Developer 🧑‍💻/</h3>
 
 
 
