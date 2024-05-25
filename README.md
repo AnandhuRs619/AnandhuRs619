@@ -1,3 +1,16 @@
+  
+<p align="left">
+  <a href="https://github.com/AnandhuRs619/">
+    <img src="https://komarev.com/ghpvc/?username=AnandhuRs619&color=red" alt="profile views" />
+  </a>
+<a href="https://github.com/AnandhuRs619/?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/AnandhuRs619?color=yellow&logo=github">
+  </a>
+<a href="https://www.linkedin.com/in/anandhu-r-s-5ab6a7135/">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-500+-blue?color=blue&logo=linkedin">
+  </a>
+  </p>
+
 <h1 align="center">Hi 👋, I'm Anandhu R S</h1>
 <h3 align="center">A passionate MERN Stack Developer 🧑‍💻</h3>
 
