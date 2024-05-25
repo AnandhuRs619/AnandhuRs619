@@ -99,6 +99,9 @@
   <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Meterial UI" width="40" height="40"/>
   </a>
+  <a href="https://threejs.org/docs/index.html#manual/en/introduction/Loading-3D-models" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" alt="Three js" width="40" height="40"/>
+  </a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="ubuntu" width="40" height="40"/>
   </a>
@@ -127,6 +130,9 @@
      <td>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhurs619&theme=transparent&include_all_commits=true" />
        </td>
+<!--         <td>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Anandhurs619&theme=transparent&include_all_commits=true" />
+       </td> -->
     <td>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anandhurs619&show_icons=true&bg_color=000000&locale=en" alt="anandhurs619" />
   </td>
