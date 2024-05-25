@@ -122,6 +122,16 @@
   </a>
 </p>
 
+<table>
+  <tr>
+     <td>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhurs619&theme=transparent&include_all_commits=true" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandhurs619&show_icons=true&bg_color=000000&locale=en" alt="anandhurs619" /></p>
+       </td>
+    <td>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandhurs619&show_icons=true&bg_color=000000&locale=en" alt="anandhurs619" />
+  </td>
+ <td>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anandhurs619&theme=dark" alt="Anandhurs619" />
+   </td>
+ </tr>
+</table>
