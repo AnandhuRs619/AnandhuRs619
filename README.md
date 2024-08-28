@@ -14,9 +14,9 @@
 <h1 align="center">Hi 👋, I'm Anandhu R S</h1>
 <h3 align="center">A passionate MERN Stack Developer 🧑‍💻</h3>
 
-- 🔭 I’m currently working on **Social Media App**
-- 🌱 I’m currently learning **TypeScript, Docker, and Kubernetes**
-- 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, JavaScript**
+- 🔭 I’m currently working on **Qmark Technolab**
+- 🌱 I’m currently learning **TypeScript**
+- 💬 Ask me about **MongoDB, Express.js, React.js,Next.js, Node.js, JavaScript**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://anandhurs.netlify.app/)
 - 📫 How to reach me **ananthurs619@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MFdZ089b9WWi63AMel2ouTNdTfnyi517/view?usp=sharing)
@@ -36,6 +36,9 @@
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" width="40" height="40"/>
@@ -82,17 +85,17 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" width="40" height="40"/>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" alt="Prisma" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
