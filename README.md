@@ -155,14 +155,14 @@
      <td>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhurs619&theme=transparent&include_all_commits=true"  width="400" height="300" />
        </td>
-<!--         <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Anandhurs619&theme=transparent&include_all_commits=true" />
-       </td> -->
+   <td>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Anandhurs619&theme=dark" />
+</td>
     <td>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anandhurs619&show_icons=true&bg_color=000000&locale=en" alt="anandhurs619"width="400" height="300" />
   </td>
  <td>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anandhurs619&theme=dark" alt="Anandhurs619" width="400" height="300"/>
+ <img align="center" src="https://streak-stats.demolab.com?user=Anandhurs619&theme=dark" alt="Anandhurs619's GitHub Streak" width="400" height="300"/>
    </td>
  </tr>
 </table>
