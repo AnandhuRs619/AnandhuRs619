@@ -14,7 +14,7 @@
 <h1 align="center">Hi 👋, I'm Anandhu R S</h1>
 <h3 align="center">A passionate MERN Stack Developer 🧑‍💻</h3>
 
-- 🔭 I’m currently working on **Qmark Technolab**
+- 🔭 I’m currently working on **Bictree**
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **MongoDB, Express.js, React.js,Next.js, Node.js, JavaScript**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://anandhurs.netlify.app/)
