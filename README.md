@@ -15,7 +15,7 @@
 <h3 align="center">A passionate MERN Stack Developer 🧑‍💻</h3>
 
 - 🔭 I’m currently working on **Bictree**
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React Native**
 - 💬 Ask me about **MongoDB, Express.js, React.js,Next.js, Node.js, JavaScript**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://anandhurs.netlify.app/)
 - 📫 How to reach me **ananthurs619@gmail.com**
