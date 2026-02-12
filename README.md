@@ -12,7 +12,7 @@
   </p>
 
 <h1 align="center">Hi 👋, I'm Anandhu R S</h1>
-<h3 align="center">A passionate MERN Stack Developer 🧑‍💻</h3>
+<h3 align="center">A Passionate MERN Stack Developer 🧑‍💻</h3>
 
 - 🔭 I’m currently working on **Bictree**
 - 🌱 I’m currently learning **React Native**
